@@ -1,7 +1,7 @@
 # Supply Chain Performance Overview
 
 ## 🎯 Project Goal:
-- Use dial gauges to create measures for start value, end value and target values
+- Use dial gauges to create measures for start value, end value and target values in order to depict supply chain performance
 - Use tooltips to provide additional insight without cluttering the main dashboard
 - Using play axis to animate the impact of logistics cost on delivery efficiency
 
