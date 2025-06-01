@@ -27,14 +27,14 @@ Organizing all the measures in respective folders in model view
 
  ## 🧪 Process Followed
  - Imported `bdt_mba_supplychain_dataset_2024.csv`containing relevant information on Location, Condition Score, Resource Utilization, Delivery Efficiency, Downtime Hours, Inventory Level, Logistics Cost and Supply Chain Efficiency Label.
-   - Used **Power Query** to clean and standardize:
-   - Created a Date Table and built hierarchy of Month Year 
-   - Defined relationships between fact table and date table
-   - Designed Power BI report with visuals like:
-   - Dial Gauges, ArcGIS Map, Scatter Plot, Card, Line Chart, Ribbon Chart and slicer
-    - Created measures for dial gauges such as start value, end value, actual start, actual end and target values
-  - Formatted the dial gauges as per the assigned values
-   - Created a separate page for tooltips and changed the page type to tooltips 
+ - Used **Power Query** to clean and standardize:
+ - Created a Date Table and built hierarchy of Month Year 
+ - Defined relationships between fact table and date table
+ - Designed Power BI report with visuals like:
+ - Dial Gauges, ArcGIS Map, Scatter Plot, Card, Line Chart, Ribbon Chart and slicer
+ - Created measures for dial gauges such as start value, end value, actual start, actual end and target values
+ - Formatted the dial gauges as per the assigned values
+ - Created a separate page for tooltips and changed the page type to tooltips 
  
 ## ⚠️ Challenges Faced
 - Creating and assigning the dial gauge values correctly
